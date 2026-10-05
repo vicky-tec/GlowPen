@@ -9,23 +9,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/vicky-tec/GlowPen/releases"><strong>Download the latest release</strong></a>
-  ·
-  <a href="https://github.com/vicky-tec/GlowPen/issues">Report an issue</a>
+  <a href="https://github.com/vicky-tec/Glow-Pen.git"><strong>Download the latest release</strong></a>
 </p>
 
 ---
 
 ## Demo
 
-Add the project demo video below after uploading an MP4 to this repository or to the GitHub issue/PR attachments:
+<img src="Screenshot 2026-10-05 094136.png" controls width="800"></img>
 
-<!-- Replace the URL below with the uploaded MP4 URL.
-<video src="YOUR_MP4_URL" controls width="800"></video>
--->
 
-> **MP4 demo placeholder**
-> Upload a file such as `assets/demo/glowpen-demo.mp4`, then replace `YOUR_MP4_URL` above with its GitHub-hosted URL.
 
 ## What is GlowPen?
 
@@ -44,7 +37,9 @@ GlowPen is a desktop screen-annotation tool for presentations, tutorials, live d
 
 ## Screenshots
 
-![GlowPen workspace](https://raw.githubusercontent.com/vicky-tec/GlowPen/main/assets/static/main.png)
+### GlowPen workspace
+
+<img src="Screenshot 2026-10-05 094136.png" controls width="800"></img>
 
 ![GlowPen usage](https://raw.githubusercontent.com/vicky-tec/GlowPen/main/assets/static/main.gif)
 
