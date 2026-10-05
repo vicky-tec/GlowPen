@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vicky-tec/GlowPen/main/icon.png" alt="GlowPen logo" height="160">
+  <img src="[https://raw.githubusercontent.com/vicky-tec/GlowPen/main/icon.png](https://drive.google.com/file/d/1bcGqlWXjY_fDn3pvJnIDe0caiGMa41__/view?usp=sharing)" alt="GlowPen logo" height="160">
 </p>
 
 <h1 align="center">GlowPen</h1>
